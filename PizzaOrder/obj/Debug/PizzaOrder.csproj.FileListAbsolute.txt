@@ -1,0 +1,48 @@
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\roslyn\csc.exe
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\roslyn\vbc.exe
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\roslyn\VBCSCompiler.exe
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\PizzaOrder.dll.config
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\PizzaOrder.dll
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\PizzaOrder.pdb
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\EntityFramework.dll
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\EntityFramework.SqlServer.dll
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\EntityFramework.xml
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\EntityFramework.SqlServer.xml
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\obj\Debug\PizzaOrder.dll
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\obj\Debug\PizzaOrder.pdb
+C:\Users\Office3\Documents\Visual Studio 2015\Projects\PizzaOrderApp\PizzaOrder\obj\Debug\PizzaOrder.csprojResolveAssemblyReference.cache
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\roslyn\csc.exe
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\roslyn\System.Collections.Immutable.dll
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\roslyn\System.Reflection.Metadata.dll
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\roslyn\vbc.exe
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\roslyn\VBCSCompiler.exe
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\roslyn\VBCSCompiler.exe.config
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\PizzaOrder.dll.config
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\PizzaOrder.dll
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\PizzaOrder.pdb
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\EntityFramework.dll
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\EntityFramework.SqlServer.dll
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\EntityFramework.xml
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\EntityFramework.SqlServer.xml
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\obj\Debug\PizzaOrder.csprojResolveAssemblyReference.cache
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\obj\Debug\PizzaOrder.dll
+H:\АSP.NET\PizzaOrderApp\PizzaOrder\obj\Debug\PizzaOrder.pdb
